@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "msj-fbla"
+  },
+  "targets": {
+    "msj-fbla": {
+      "hosting": {
+        "msj-fbla": [
+          "msj-fbla"
+        ]
+      }
+    }
+  }
+}
